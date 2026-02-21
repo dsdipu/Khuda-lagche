@@ -78,8 +78,8 @@ This project was built to:
 
 📬 Contact
 
-📧 [Email](mr.sarkar9979@gmail.com) 
-🔗 [LinkedIn](https://www.linkedin.com/in/dsdipu) 
-🌐 [Portfolio](https://www.dsdipu.github.io/portfolio)
+📧 [Email](mr.sarkar9979@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/dsdipu)
+🌐 [Portfolio](https://dsdipu.github.io/portfolio/)
 
 © 2026 Dipankar Sarkar
